@@ -1,0 +1,32 @@
+EL CODIGO DE CSS ESTA ORGANIZADO SEGUN LA FUNCIONALIDAD DE CADA GRUPO DE ELEMENTOS SEGUN SE DETALLA ABAJO 
+
+GRUPO 1 = "agrupamiento por selector de etiquetas"
+	>se coloco todos los selectores de etiquetas en este grupo<
+
+GRUPO 2 = "agrupamiento por estilos paralelos"
+	>se coloco la estilizacion de los archivos que estan fuera del index.html , es decir otros archivos html que estan accionando con el principal>
+
+GRUPO 3 = "agrupamiento por speudos"
+	>se coloco aqui todos los speudos-elementos y speudos-etiquetas para una mejor visual de las acciones<
+
+GRUPO 4 = "agrupamiento por especificidad"
+	>se coloco aqui la estilizacion segun la especificidad del elemento a estilizar<
+
+GRUPO 5 = "agrupamiento por estilizacion de id"
+	>se coloco aqui la estilizacion segun los id utilizados<
+
+GRUPO 6 = "agrupamiento por estilizacion de clases"
+	>agrupamiento de todas las clases subdivididas por orden semantico segun corre el html<
+
+GRUPO 6-A "elementos del header"
+	>dentro del body tenemos primero el header< 
+
+GRUPO 6-B "elementos del main"
+	>dentro del body continuamos por el main<
+
+
+
+
+
+esta clasificacion y ordenamiento del codigo no representa la absoluta correspondencia con lo que debe ser sino mas 
+bien se trata de una guia segun lo que a mi respecta el codigo lo leera una persona distinta a mi.
